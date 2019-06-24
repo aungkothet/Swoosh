@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Swoosh</string>
+    <string name="background_image">Background Image</string>
+    <string name="logo">logo</string>
+    <string name="desired_league">Desired League</string>
+    <string name="mens">Mens</string>
+    <string name="womens">Womens</string>
+    <string name="co_ed">Co-ed</string>
+    <string name="next">NEXT</string>
+    <string name="all_in">GO ALL IN</string>
+    <string name="going_all_out">ON GOING ALL OUT</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="find_a_team">Find a team in your city and, dominate the league.</string>
+    <string name="iama">I am a</string>
+    <string name="beginner">Beginner</string>
+    <string name="baller">Baller</string>
+    <string name="finish">Finish</string>
+    <string name="search_league">Lookin for a co-ed beginner league near you ....</string>
+
+</resources>
